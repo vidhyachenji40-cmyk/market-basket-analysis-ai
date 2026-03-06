@@ -10,7 +10,3 @@ Developed an Association Rule Mining system using the Apriori algorithm to uncov
 - **Python** (Pandas, Mlxtend)
 - **Algorithm:** Apriori (Association Rule Mining)
 - **Environment:** Google Cloud Shell" > README.md
-
-git add README.md
-git commit -m "Add professional project description"
-git push origin main
