@@ -1,4 +1,4 @@
-echo "# Market Basket Analysis AI 🛒
+# Market Basket Analysis AI 🛒
 Developed an Association Rule Mining system using the Apriori algorithm to uncover hidden product relationships in retail transaction data.
 
 ## 📊 Key Insights
